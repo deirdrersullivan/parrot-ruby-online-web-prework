@@ -1,3 +1,3 @@
-def parrot (phrase, phrase="squawk")
+def parrot (phrase="Squawk!")
     puts "Pretty Bird"
 end
